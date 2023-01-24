@@ -19,16 +19,6 @@ My interest lies with software development and all the aspects that surrounds it
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
 <br/>  
 
 
