@@ -7,8 +7,6 @@
 <a href="https://linkedin.com/in/martinmarsell" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
-
 
 
 ### Glad to see ya!  
@@ -16,11 +14,6 @@ I'm a developer from Norway, currently studying @ Østfold University College.
 
 My interest lies with software development and all the aspects that surrounds it. I have a passion for learning new technologies and concepts to add to my tech toolbox.  
   
-
-<br/>  
-
-<br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
