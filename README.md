@@ -1,19 +1,13 @@
-## Hey 👋, I'm Martin!  
-  
-
-<a href="https://github.com/MBMarsell" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/martinmarsell" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-
+<h1 align="center">Hi, I'm Martin👋</h1>
 
 ### Glad to see ya!  
 I'm a developer from Norway, currently studying @ Østfold University College.
-
 My interest lies with software development and all the aspects that surrounds it. I have a passion for learning new technologies and concepts to add to my tech toolbox.  
-  
+
+### Connect With Me!
+<a href="https://linkedin.com/in/martinmarsell" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
 
 ## Languages and Tools  
 <div align="center">  
