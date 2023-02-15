@@ -2,6 +2,7 @@
 
 ### Glad to see ya!  
 I'm a developer from Norway, currently studying @ Østfold University College.
+
 My interest lies with software development and all the aspects that surrounds it. I have a passion for learning new technologies and concepts to add to my tech toolbox.  
 
 ### Connect With Me!
