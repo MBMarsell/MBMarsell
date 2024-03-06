@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Martin👋</h1>
+<h1 align="center">Howdy, I'm Martin👋</h1>
 
-### Glad to see ya!  
+### Hello there!
 I'm a developer from Norway with a Bachelor's degree in Digital Media & Design.
 
 My interest lies with IT, IoT and software development including all the aspects that surrounds it. I have a passion for learning new technologies and concepts to add to my tech toolbox.  
