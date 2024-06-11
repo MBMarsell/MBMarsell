@@ -1,4 +1,4 @@
-<h1 align="center">Howdy, I'm Martin👋</h1>
+<h1 align="center">Howdy hey, I'm Martin👋</h1>
 
 ### Hello there!
 I'm a developer from Norway with a Bachelor's degree in Digital Media & Design.
