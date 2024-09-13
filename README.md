@@ -1,10 +1,5 @@
 <h1 align="center">Howdy hey, I'm Martin👋</h1>
 
-### Hello there!
-I'm a developer from Norway with a Bachelor's degree in Digital Media & Design.
-
-My interest lies with IT, IoT and software development including all the aspects that surrounds it. I have a passion for learning new technologies and concepts to add to my tech toolbox.  
-
 ### Connect With Me!
 <a href="https://linkedin.com/in/martinmarsell" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
